@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/data-fetch-posts-users-comments--React-App/static/css/main.5760567c.css",
+    "main.js": "/data-fetch-posts-users-comments--React-App/static/js/main.3a4c1f80.js",
+    "static/js/787.0739d4ab.chunk.js": "/data-fetch-posts-users-comments--React-App/static/js/787.0739d4ab.chunk.js",
+    "index.html": "/data-fetch-posts-users-comments--React-App/index.html",
+    "main.5760567c.css.map": "/data-fetch-posts-users-comments--React-App/static/css/main.5760567c.css.map",
+    "main.3a4c1f80.js.map": "/data-fetch-posts-users-comments--React-App/static/js/main.3a4c1f80.js.map",
+    "787.0739d4ab.chunk.js.map": "/data-fetch-posts-users-comments--React-App/static/js/787.0739d4ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5760567c.css",
+    "static/js/main.3a4c1f80.js"
+  ]
+}
